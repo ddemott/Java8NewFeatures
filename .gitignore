@@ -2,3 +2,8 @@
 /bin/
 /Servers/
 /.metadata/
+/.settings/
+/RemoteSystemTempFiles/
+.project
+_README.md
+_config.yml
