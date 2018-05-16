@@ -5,5 +5,5 @@
  * 
  */
 
-package com.demott.lambda;
+package com.demott.lambda.calculator;
 

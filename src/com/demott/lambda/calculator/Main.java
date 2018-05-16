@@ -1,10 +1,5 @@
 package com.demott.lambda.calculator;
 
-import com.demott.lambda.Add;
-import com.demott.lambda.Divide;
-import com.demott.lambda.Multiply;
-import com.demott.lambda.Subtract;
-
 public class Main {
 	public static void main(String[] args) {
 		Add addImpl = (p1, p2) -> p1 + p2;

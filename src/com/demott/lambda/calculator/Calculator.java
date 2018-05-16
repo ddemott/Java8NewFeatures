@@ -1,10 +1,5 @@
 package com.demott.lambda.calculator;
 
-import com.demott.lambda.Add;
-import com.demott.lambda.Divide;
-import com.demott.lambda.Multiply;
-import com.demott.lambda.Subtract;
-
 public class Calculator implements Add, Subtract, Multiply, Divide {
 
 	private Add addImpl;

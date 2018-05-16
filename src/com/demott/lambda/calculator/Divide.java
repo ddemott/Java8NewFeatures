@@ -1,4 +1,4 @@
-package com.demott.lambda;
+package com.demott.lambda.calculator;
 
 @FunctionalInterface
 public interface Divide {
